@@ -1,0 +1,5 @@
+{
+  "name": "Tecpetrol - Materiales Sustitutos",
+  "description": "Plataforma de IA para la optimización de la gestión de inventarios en Tecpetrol a través de la detección inteligente de materiales sustitutos. Implementa una matriz de sustitución, análisis predictivo y simulación de integración con sistemas ERP como SAP y COUPA para mejorar la eficiencia operativa.",
+  "requestFramePermissions": []
+}
